@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1547
+
+This plugin is superseded by vimscript#1609.
+
+Compiler setup for the GNAT [1] compiler.
+
+Reports errors to: http://code.google.com/p/vim-scripts/issues/list
+Discuss improvements on: http://groups.google.com/group/vim_scripts
+
+[1] http://gnuada.sourceforge.net
